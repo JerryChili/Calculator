@@ -1,0 +1,16 @@
+C:\Users\jerij\source\repos\SickFuckingCalculator\bin\Debug\net8.0-windows\SickFuckingCalculator.exe
+C:\Users\jerij\source\repos\SickFuckingCalculator\bin\Debug\net8.0-windows\SickFuckingCalculator.deps.json
+C:\Users\jerij\source\repos\SickFuckingCalculator\bin\Debug\net8.0-windows\SickFuckingCalculator.runtimeconfig.json
+C:\Users\jerij\source\repos\SickFuckingCalculator\bin\Debug\net8.0-windows\SickFuckingCalculator.dll
+C:\Users\jerij\source\repos\SickFuckingCalculator\bin\Debug\net8.0-windows\SickFuckingCalculator.pdb
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.Form1.resources
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.csproj.GenerateResource.cache
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.AssemblyInfoInputs.cache
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.AssemblyInfo.cs
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.dll
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\refint\SickFuckingCalculator.dll
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.pdb
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\SickFuckingCalculator.genruntimeconfig.cache
+C:\Users\jerij\source\repos\SickFuckingCalculator\obj\Debug\net8.0-windows\ref\SickFuckingCalculator.dll

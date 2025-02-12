@@ -38,7 +38,8 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T09:41:28.429Z"
+              "WhenOpened": "2025-01-24T09:41:28.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,7 +49,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\jerij\\Documents\\GitHub\\Calculator\\SickFuckingCalculator\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAqwHwBAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T09:33:27.882Z",
               "EditorCaption": ""
@@ -59,10 +60,11 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jerij\\Documents\\GitHub\\Calculator\\SickFuckingCalculator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\jerij\\source\\repos\\SickFuckingCalculator\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\SickFuckingCalculator\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\jerij\\Documents\\GitHub\\Calculator\\SickFuckingCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T08:25:38.048Z"
+              "WhenOpened": "2025-01-24T08:25:38.048Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

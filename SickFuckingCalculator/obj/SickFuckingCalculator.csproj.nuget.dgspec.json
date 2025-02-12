@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jerij\\source\\repos\\SickFuckingCalculator\\SickFuckingCalculator.csproj": {}
+    "C:\\Users\\jerij\\Documents\\GitHub\\Calculator\\SickFuckingCalculator\\SickFuckingCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jerij\\source\\repos\\SickFuckingCalculator\\SickFuckingCalculator.csproj": {
+    "C:\\Users\\jerij\\Documents\\GitHub\\Calculator\\SickFuckingCalculator\\SickFuckingCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jerij\\source\\repos\\SickFuckingCalculator\\SickFuckingCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\jerij\\Documents\\GitHub\\Calculator\\SickFuckingCalculator\\SickFuckingCalculator.csproj",
         "projectName": "SickFuckingCalculator",
-        "projectPath": "C:\\Users\\jerij\\source\\repos\\SickFuckingCalculator\\SickFuckingCalculator.csproj",
+        "projectPath": "C:\\Users\\jerij\\Documents\\GitHub\\Calculator\\SickFuckingCalculator\\SickFuckingCalculator.csproj",
         "packagesPath": "C:\\Users\\jerij\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jerij\\source\\repos\\SickFuckingCalculator\\obj\\",
+        "outputPath": "C:\\Users\\jerij\\Documents\\GitHub\\Calculator\\SickFuckingCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

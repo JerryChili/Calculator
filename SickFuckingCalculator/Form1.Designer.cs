@@ -350,6 +350,7 @@
             textbox.ReadOnly = true;
             textbox.Size = new Size(954, 58);
             textbox.TabIndex = 25;
+            textbox.TabStop = false;
             textbox.TextAlign = HorizontalAlignment.Right;
             textbox.TextChanged += textbox_TextChanged;
             // 

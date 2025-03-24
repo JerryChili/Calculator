@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text.RegularExpressions;
 
 namespace SickFuckingCalculator
@@ -214,9 +215,8 @@ namespace SickFuckingCalculator
             return numStack.Count > 0 ? numStack.Pop() : 0; // Final result
         }
 
-        private void add(char input)
+        private void changeOperation(char input)
         {
-            textbox.Text += input;
             if (Char.IsDigit(input))
             {
                 previousOperation = "value";
@@ -225,6 +225,7 @@ namespace SickFuckingCalculator
             {
                 switch (input)
                 {
+
                     case '.':
                         previousOperation = "point";
                         canPlacePoint = false;
@@ -261,6 +262,12 @@ namespace SickFuckingCalculator
                         break;
                 }
             }
+        }
+
+        private void add(char input)
+        {
+            textbox.Text += input;
+            changeOperation(input);
         }
 
         private void append(char operationChar) // Appends the current operator with another one (like changing a * to +)
@@ -362,8 +369,23 @@ namespace SickFuckingCalculator
         {
             if (textbox.Text.Length > 0)
             {
-                string expression = textbox.Text;                               // Put textbox text into a string
-                textbox.Text = expression.Remove(expression.Length - 1);        // Then put it back into the textbox while having removed the last character
+                string expression = textbox.Text;                                       // Put textbox text into a string
+                if (expression.EndsWith('.'))
+                {
+                    expression = expression.Remove(expression.Length - 1);
+                    textbox.Text = expression;                                          // Then put it back into the textbox while having removed the last character
+                    changeOperation(expression.Last());                                 // Change last operation to the last character in expression
+                    canPlacePoint = true;
+                }
+                else
+                {
+                    expression = expression.Remove(expression.Length - 1);
+                    textbox.Text = expression;                                          // Then put it back into the textbox while having removed the last character
+                    changeOperation(expression.Last());                                 // Change last operation to the last character in expression
+                }
+                
+
+                Debug.WriteLine(previousOperation);
             }
         }
 

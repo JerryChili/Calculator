@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SickFuckingCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c882e49faa12f1e25eccde03cf6bf0b0e8f734")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86dc944c884e34dfc84b880c5057b06a4281a808")]
 [assembly: System.Reflection.AssemblyProductAttribute("SickFuckingCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SickFuckingCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
